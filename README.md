@@ -1,1 +1,1 @@
-# clear-dm script python
+# clear dm python
